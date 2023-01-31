@@ -1,0 +1,26 @@
+Tugas Pemprograman dart
+
+1. Buatlah pengecekan if untuk mengecek suatu kelulusan berdasarkan nilaiAbsen dan NilaiUas,
+   serta nilai kkm dari nilaiAbsen adalah 60, dan nilai kkm nilaiUas adalah 75
+2. Urutkan nilai 100 sampai ke 50 dari 100 ke 50 menggunakan for
+
+
+Answer 
+
+    /*
+    
+     1. void main() {
+        nilaiAbsen = ;
+        nilaiUas   = ;
+
+        if ( nilaiAbsen >= 60 && nilaiUas >= 75) {
+            print('Selamat Aanda Lulus');
+        } else if ( nilaiAbsen <= 60 && nilaiUas <= 75 ) {
+            print('Selamat Aanda Mengulang);
+        } else {
+            print('Nilai Tidak Di Temukan');
+        }
+     }
+    
+    
+    */
